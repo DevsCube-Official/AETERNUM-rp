@@ -1,4 +1,7 @@
 {
+
+  "aeternum.merchant.spawn":"§6[Aeternum] §aA merchant has appeared!",
+
   "aeternum.abilities.deny":"§6[Aeternum] §4A cooldown is active for this ability!",
   "aeternum.abilities.accept":"§6[Aeternum] %s §8activated",
 
