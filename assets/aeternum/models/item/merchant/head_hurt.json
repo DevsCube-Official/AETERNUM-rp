@@ -7,9 +7,9 @@
 	"elements": [
 		{
 			"name": "face",
-			"from": [4, 0, 4],
+			"from": [4, -0.2, 4],
 			"to": [12, 10, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 12]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 7.8, 12]},
 			"faces": {
 				"north": {"uv": [2, 2, 4, 4.5], "texture": "#1"},
 				"east": {"uv": [0, 2, 2, 4.5], "texture": "#1"},
@@ -21,9 +21,9 @@
 		},
 		{
 			"name": "nose",
-			"from": [7, -1, 1.999],
+			"from": [7, -1.2, 1.999],
 			"to": [9, 3, 3.999],
-			"rotation": {"angle": 0, "axis": "y", "origin": [15, 7, 11]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 6.8, 11]},
 			"faces": {
 				"north": {"uv": [6.5, 0.5, 7, 1.5], "texture": "#1"},
 				"east": {"uv": [6, 0.5, 6.5, 1.5], "texture": "#1"},
@@ -35,9 +35,9 @@
 		},
 		{
 			"name": "hood_outside",
-			"from": [3.5, -0.5, 3.5],
-			"to": [12.5, 10.5, 12.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 12]},
+			"from": [3.4, -1.7, 3.45],
+			"to": [12.6, 10.5, 12.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 7.8, 12]},
 			"faces": {
 				"north": {"uv": [10, 2.25, 12, 4.5], "texture": "#1"},
 				"east": {"uv": [8, 2, 10.25, 4.75], "texture": "#1"},
@@ -49,9 +49,9 @@
 		},
 		{
 			"name": "hood_inside",
-			"from": [12.5, 10.5, 12.5],
-			"to": [3.5, -0.5, 3.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 12]},
+			"from": [12.5, -0.7, 12.5],
+			"to": [3.5, -0.7, 3.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 7.8, 12]},
 			"faces": {
 				"north": {"uv": [12.5, 5, 14.75, 2.25], "texture": "#1"},
 				"east": {"uv": [10.25, 5, 8, 2.25], "texture": "#1"},

@@ -2,6 +2,44 @@
 
   "aeternum.merchant.spawn":"§6[Aeternum] §aA merchant has appeared!",
 
+  "aeternum.quests.reward_xp":"§6[Aeternum] §aYou have been rewarded §b30 points §afrom a quest!",
+  "aeternum.quests.start.template":"§6[Aeternum] §dQUEST: ",
+  "aeternum.quests.deny.missing_class":"§6[Aeternum] §4The required class is not your current class!",
+  "aeternum.quests.deny.has_quest":"§6[Aeternum] §4You already have a quest!",
+  "aeternum.quests.deny.quest_unlocked":"§6[Aeternum] §4You already have started/finished this quest!",
+     
+  "aeternum.quests.start.name":"%s Quest",
+
+  "aeternum.quests.start.archer_1":"§bHit a blaze with §c100 snowballs",
+  "aeternum.quests.start.archer_2":"§bReflect §c20 fireballs §bat ghasts",
+  "aeternum.quests.start.archer_3":"§bKill §c10 pillager captains §bwith a bow",
+  "aeternum.quests.start.archer_4":"§bHit the bullseye §cthrice",
+  "aeternum.quests.start.archer_5":"§bShoot §c500 arrows",
+
+  "aeternum.quests.start.swordsman_1":"§bKill §c50 enemies §bwith swords",
+  "aeternum.quests.start.swordsman_2":"§bKill §cone of every §bundead mob",
+  "aeternum.quests.start.swordsman_3":"§bUse a §clongsword §bto kill a breeze",
+  "aeternum.quests.start.swordsman_4":"§bUse the §cBlood Price §bability 30 times",
+  "aeternum.quests.start.swordsman_5":"§bKill an §celder guardian §bwith a §cdiamond or netherite §blongsword",
+
+  "aeternum.quests.start.rogue_1":"§bKill 50 enemies",
+  "aeternum.quests.start.rogue_2":"§bKill 50 enemies",
+  "aeternum.quests.start.rogue_3":"§bKill 50 enemies",
+  "aeternum.quests.start.rogue_4":"§bKill 50 enemies",
+  "aeternum.quests.start.rogue_5":"§bKill 50 enemies",
+    
+  "aeternum.quests.start.healer_1":"§bKill 50 enemies",
+  "aeternum.quests.start.healer_2":"§bKill 50 enemies",
+  "aeternum.quests.start.healer_3":"§bKill 50 enemies",
+  "aeternum.quests.start.healer_4":"§bKill 50 enemies",
+  "aeternum.quests.start.healer_5":"§bKill 50 enemies",
+    
+  "aeternum.quests.start.mage_1":"§bKill 50 enemies",
+  "aeternum.quests.start.mage_2":"§bKill 50 enemies",
+  "aeternum.quests.start.mage_3":"§bKill 50 enemies",
+  "aeternum.quests.start.mage_4":"§bKill 50 enemies",
+  "aeternum.quests.start.mage_5":"§bKill 50 enemies",
+
   "aeternum.abilities.deny":"§6[Aeternum] §4A cooldown is active for this ability!",
   "aeternum.abilities.accept":"§6[Aeternum] %s §8activated",
 
@@ -77,6 +115,7 @@
 
   "aeternum.gui.name.player_head.stats.lore.1": "§6Level %s %s",
   "aeternum.gui.name.player_head.stats.lore.2": "§d%s Ability wheel slots unlocked",
+  "aeternum.gui.name.player_head.stats.lore.3": "§eYou have %s points",
 
   "aeternum.item.name.power_wheel": "Ability Wheel",
   "aeternum.item.name.class_stone": "§aClass Stone",
@@ -142,7 +181,7 @@
   "aeternum.advancement.title.all_wheel_slots": "Eight times the Power!",
   "aeternum.advancement.description.all_wheel_slots": "Obtain every single ability wheel slot",
 
-  "aeternum.advancement.title.use_class_stone": "Back to block one",
+  "aeternum.advancement.title.use_class_stone": "Better Luck Next Time",
   "aeternum.advancement.description.use_class_stone": "Use a class stone for the first time",
 
   "aeternum.advancement.title.first_levelup": "Going Higher",
@@ -171,6 +210,12 @@
 
   "aeternum.advancement.title.leveling_up.root": "Leveling Up | Aeternum",
   "aeternum.advancement.description.leveling_up.root": "",
+
+  "aeternum.advancement.title.quest.root": "Quests | Aeternum",
+  "aeternum.advancement.description.quest.root": "",
+  
+  "aeternum.advancement.title.new_quest.root": "New Quest!",
+  "aeternum.advancement.description.new_quest.root": "",
 
   "aeternum.advancement.title.alchemist.legendary": "Legendary Alchemist",
   "aeternum.advancement.description.alchemist.legendary": "Reach level 10 of the alchemist class",

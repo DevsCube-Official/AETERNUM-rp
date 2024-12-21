@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "aeternum:item/merchant/wandering_trader",
-		"particle": "aeternum:item/merchant/wandering_trader"
+		"1": "aeternum:item/merchant2/wandering_trader",
+		"particle": "aeternum:item/merchant2/wandering_trader"
 	},
 	"elements": [
 		{
