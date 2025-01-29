@@ -41,10 +41,10 @@
   "aeternum.quests.start.mage_5":"§bConsume §c60 books §b(Book Bash ability)",
   
   "aeternum.quests.start.druid_1":"§bGather §c5 types §bof seeds (Wheat, Melon, Pumpkin, Beetroot, Cocoa)",
-  "aeternum.quests.start.druid_2":"§bUse bone meal on §c10 different §cplants §b(e.g., grass, flowers, or crops)",
-  "aeternum.quests.start.druid_3":"§bPlant §c10 saplings §bof each tree type",
-  "aeternum.quests.start.druid_4":"§bBreed §ctwo animals §bof §cfour different §bspecies (i.e., cats, frogs, horses, and wolves).",
-  "aeternum.quests.start.druid_5":"§bCraft a §cnetherite hoe",
+  "aeternum.quests.start.druid_2":"§bUse bone meal on §cevery type of crop",
+  "aeternum.quests.start.druid_3":"§bPlant §c100 saplings",
+  "aeternum.quests.start.druid_4":"§bBreed §cfour different §bspecies (i.e., cats, frogs, horses, and wolves).",
+  "aeternum.quests.start.druid_5":"§bCraft 2 §cnetherite hoes",
 
   "aeternum.quests.start.enchanter_1":"§bEnchant §c3 §bitems",
   "aeternum.quests.start.enchanter_2":"§bMine §c100 §blapis ore",
