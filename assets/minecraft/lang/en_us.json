@@ -95,16 +95,16 @@
   "aeternum.quests.start.traveler_5":"§bTravel §c10,000 blocks",
   
   "aeternum.quests.start.warrior_1":"§bObtain a §cheavy core",
-  "aeternum.quests.start.warrior_2":"§bKill an §ciron golem §bwith a mace",
+  "aeternum.quests.start.warrior_2":"§bKill these mobs: §cBogged, Drowned, Husk, Skeleton, Stray, Zombie Villager, Zombie",
   "aeternum.quests.start.warrior_3":"§bStart a §ctrial omen §band kill an enemy",
   "aeternum.quests.start.warrior_4":"§bKill §c50 enemies, §bwhile duel-wielding maces",
-  "aeternum.quests.start.warrior_5":"§bKill every type of enemy that spawns in a trial chamber with a mace",
+  "aeternum.quests.start.warrior_5":"§bUse an §cominous trial key",
     
-  "aeternum.quests.start.alchemist_1":"§bCollect §c10 §bof each: blaze powder, ghast tear, fermented spider eye",
-  "aeternum.quests.start.alchemist_2":"§bBrew §call 3 types §bof each: Thick Potion, Mundane Potion and Awkward Potion",
+  "aeternum.quests.start.alchemist_1":"§bCollect each: §cblaze powder, ghast tear, fermented spider eye",
+  "aeternum.quests.start.alchemist_2":"§bBrew each: §cThick Potion, Mundane Potion and Awkward Potion",
   "aeternum.quests.start.alchemist_3":"§bBrew a §clingering potion of turtle master",
   "aeternum.quests.start.alchemist_4":"§bCure §c3 zombie villagers",
-  "aeternum.quests.start.alchemist_5":"§bStand in a §clava cauldron §bfor 10 minutes",
+  "aeternum.quests.start.alchemist_5":"§bStand inside a §clava cauldron",
 
   "aeternum.abilities.deny":"§6[Aeternum] §4A cooldown is active for this ability!",
   "aeternum.abilities.accept":"§6[Aeternum] %s §8activated",
