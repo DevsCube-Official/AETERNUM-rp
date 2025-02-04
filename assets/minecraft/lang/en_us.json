@@ -109,6 +109,11 @@
   "aeternum.abilities.deny":"§6[Aeternum] §4A cooldown is active for this ability!",
   "aeternum.abilities.accept":"§6[Aeternum] %s §8activated",
 
+  "aeternum.abilities.enchanter.xp_storage.deny":"§6[Aeternum] §4Not enough XP! You need at least 10 levels.",
+  "aeternum.abilities.enchanter.paginated_shield.deny":"§6[Aeternum] §4Not enough space!",
+  "aeternum.abilities.enchanter.curse_ground.deny":"§6[Aeternum] §4You're not on the ground!",
+  "aeternum.abilities.enchanter.spell_aura.deny":"§6[Aeternum] §4No mobs/players nearby!",
+
   "aeternum.abilities.rogue.weakened_light.deny":"§6[Aeternum] §4Not an empty space!",
 
   "aeternum.abilities.swordsman.parry.deny":"§6[Aeternum] §4Attack an enemy first!",
@@ -188,6 +193,7 @@
   "aeternum.item.name.class_scroll": "§aClass Scroll",
   "aeternum.item.name.class_table": "§aClass Table",
   "aeternum.item.name.energy_capsule": "§dEnergy Capsule",
+  "aeternum.item.lore.xp_bottle": "§7+10 XP levels",
 
   "aeternum.item.name.swordsman.longsword": "%s Longsword",
   "aeternum.item.name.rogue.dagger": "%s Dagger",
