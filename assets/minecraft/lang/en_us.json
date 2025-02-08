@@ -113,6 +113,11 @@
   "aeternum.abilities.enchanter.paginated_shield.deny":"§6[Aeternum] §4Not enough space!",
   "aeternum.abilities.enchanter.curse_ground.deny":"§6[Aeternum] §4You're not on the ground!",
   "aeternum.abilities.enchanter.spell_aura.deny":"§6[Aeternum] §4No mobs/players nearby!",
+  "aeternum.abilities.enchanter.shattered_pages.deny":"§6[Aeternum] §4Not enough books!",
+  "aeternum.abilities.enchanter.quill.deny":"§6[Aeternum] §4You do not have 1 book in your offhand!",
+  "aeternum.abilities.enchanter.essence_extraction.accept":"§6[Aeternum] §aEvery attack done to a hostile mob within \n§c40 seconds §awill grant you §b200 xp points.",
+  "aeternum.abilities.enchanter.runic_trap.accept":"§6[Aeternum] §aYour trap will be ready to activate in 5 seconds.\n§c§oYou might want to get out of that spot.",
+  "aeternum.abilities.enchanter.xp_bomb.accept":"§6[Aeternum] §aYour bomb will activate in 5 seconds.\n§c§oYou might want to get out of that spot.",
 
   "aeternum.abilities.rogue.weakened_light.deny":"§6[Aeternum] §4Not an empty space!",
 
