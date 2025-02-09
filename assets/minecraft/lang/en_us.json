@@ -121,6 +121,11 @@
 
   "aeternum.abilities.rogue.weakened_light.deny":"§6[Aeternum] §4Not an empty space!",
 
+  "aeternum.abilities.miner.ore_vision":"§6[Aeternum] §aThere is diamond ore near you!",
+
+  "aeternum.abilities.smith.reinforced_strikes.deny":"§6[Aeternum] §4You already charged an attack!",
+  "aeternum.abilities.smith.reinforced_strikes.accept":"§6[Aeternum] §aYour next attack with axe will be §bexplosive!",
+
   "aeternum.abilities.swordsman.parry.deny":"§6[Aeternum] §4Attack an enemy first!",
   "aeternum.abilities.swordsman.calculated_strike.deny":"§6[Aeternum] §4Low health!",
   "aeternum.abilities.swordsman.sense_strength.deny":"§6[Aeternum] §4No players nearby!",
@@ -151,7 +156,7 @@
   "aeternum.abilities.mage.book_bash.deny":"§6[Aeternum] §4Not enough books to consume!",
   "aeternum.abilities.mage.book_bash.deny2":"§6[Aeternum] §4You already charged an attack!",
   "aeternum.abilities.mage.book_bash.charged":"§6[Aeternum] §aYou charged your next attack!",
-  "aeternum.abilities.mage.shiver.deny":"§6[Aeternum] §4No mobs to freeze!",
+  "aeternum.abilities.mage.shiver.deny":"§6[Aeternum] §4No mobs nearby!",
   "aeternum.abilities.mage.rocket_step.jump":"§6[Aeternum] §aYou charged your next jump!",
   "aeternum.abilities.mage.rocket_step.deny":"§6[Aeternum] §4You already charged a jump!",
   "aeternum.abilities.mage.curse_ground.deny":"§6[Aeternum] §4You're not on the ground!",
