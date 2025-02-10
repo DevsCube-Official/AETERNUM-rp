@@ -123,8 +123,13 @@
 
   "aeternum.abilities.miner.ore_vision":"§6[Aeternum] §aThere is diamond ore near you!",
 
+  "aeternum.abilities.warrior.power_strike.deny":"§6[Aeternum] §4You already charged an attack!",
+  "aeternum.abilities.warrior.power_strike.accept":"§6[Aeternum] §aYour next attack will deal §bmore damage!",
+  "aeternum.abilities.warrior.crushing_blow.deny":"§6[Aeternum] §4You already charged an attack!",
+  "aeternum.abilities.warrior.crushing_blow.accept":"§6[Aeternum] §aYour next attack with a mace will §bstun an enemy!",
+
   "aeternum.abilities.smith.reinforced_strikes.deny":"§6[Aeternum] §4You already charged an attack!",
-  "aeternum.abilities.smith.reinforced_strikes.accept":"§6[Aeternum] §aYour next attack with axe will be §bexplosive!",
+  "aeternum.abilities.smith.reinforced_strikes.accept":"§6[Aeternum] §aYour next attack with an axe will be §bexplosive!",
 
   "aeternum.abilities.swordsman.parry.deny":"§6[Aeternum] §4Attack an enemy first!",
   "aeternum.abilities.swordsman.calculated_strike.deny":"§6[Aeternum] §4Low health!",
@@ -207,7 +212,15 @@
 
   "aeternum.item.name.swordsman.longsword": "%s Longsword",
   "aeternum.item.name.rogue.dagger": "%s Dagger",
+  "aeternum.item.name.warrior.mace": "%s Mace",
+  "aeternum.item.name.smith.hammer": "%s Hammer",
+  "aeternum.item.name.barbarian.axe": "%s Axe",
+  "aeternum.item.name.traveler.backpack": "%s Backpack",
   "aeternum.item.lore.sword": "§2%s §9Reach, %s §9Damage",
+  "aeternum.item.lore.mace": "§2%s §9Reach, %s §9Damage",
+  "aeternum.item.lore.hammer": "§2%s §9Reach, %s §9Damage",
+  "aeternum.item.lore.axe": "§2%s §9Reach, %s §9Damage",
+  "aeternum.item.lore.backpack": "§2%s §9Reach, %s §9Damage",
 
   "aeternum.item.lore.class_stone": "§9New Class: §d%s",
   "aeternum.item.lore.energy_capsule": "§9Remaining Uses: §d%s",
