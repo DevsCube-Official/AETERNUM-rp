@@ -119,6 +119,17 @@
   "aeternum.abilities.enchanter.runic_trap.accept":"§6[Aeternum] §aYour trap will be ready to activate in 5 seconds.\n§c§oYou might want to get out of that spot.",
   "aeternum.abilities.enchanter.xp_bomb.accept":"§6[Aeternum] §aYour bomb will activate in 5 seconds.\n§c§oYou might want to get out of that spot.",
 
+  "aeternum.abilities.druid.natures_blessing.deny":"§6[Aeternum] §4No crops nearby!",
+
+  "aeternum.abilities.summoner.spirits.deny":"§6[Aeternum] §4Not enough spirit energy!",
+
+  "aeternum.abilities.traveler.survey.accept":"§6[Aeternum] §aEnemies: %s",
+  "aeternum.abilities.traveler.portal.deny":"§6[Aeternum] §4Not in the right dimension!",
+
+  "aeternum.abilities.barbarian.cleaving_strike.deny":"§6[Aeternum] §4You do not have an axe in your off-hand!",
+
+  "aeternum.abilities.soldier.maul.deny":"§6[Aeternum] §4You do not have a shield in your off-hand!",
+
   "aeternum.abilities.rogue.weakened_light.deny":"§6[Aeternum] §4Not an empty space!",
 
   "aeternum.abilities.miner.ore_vision":"§6[Aeternum] §aThere is diamond ore near you!",
@@ -216,6 +227,9 @@
   "aeternum.item.name.smith.hammer": "%s Hammer",
   "aeternum.item.name.barbarian.axe": "%s Axe",
   "aeternum.item.name.traveler.backpack": "%s Backpack",
+  "aeternum.item.name.soldier.shield": "%s Shield",
+  "aeternum.item.name.traveler.stick": "Traveler's Stick",
+
   "aeternum.item.lore.sword": "§2%s §9Reach, %s §9Damage",
   "aeternum.item.lore.mace": "§2%s §9Reach, %s §9Damage",
   "aeternum.item.lore.hammer": "§2%s §9Reach, %s §9Damage",
