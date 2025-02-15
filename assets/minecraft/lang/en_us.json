@@ -1,6 +1,18 @@
 {
 
+  "item.minecraft.potion.effect.kalistar": "Potion of Kalistar - The Burning Herald",
+  "item.minecraft.potion.effect.mil": "Potion of Mil - The Abomination",
+  "item.minecraft.potion.effect.neera": "Potion of Neera - Lady of the Sea",
+  "item.minecraft.potion.effect.razar": "Potion of Razar - Lord of the Force",
+  "item.minecraft.potion.effect.tarmee": "Potion of Tarmee - The Wandering Charlatan",
+  "item.minecraft.potion.effect.torg": "Potion of Torg - Crafter of the Forge",
+  "item.minecraft.potion.effect.zethros": "Potion of Zethros - The Dark Wind",
+
   "aeternum.merchant.spawn":"§6[Aeternum] §aA merchant has appeared!",
+
+  "aeternum.quests.boxes.no_emerald":"§6[Aeternum] §cYou're not holding an emerald!",
+  "aeternum.quests.boxes.no_emerald2":"§6[Aeternum] §b20 Emeralds are required to open this box.",
+  "aeternum.quests.boxes.no_emerald3":"§6[Aeternum] §eThis box has collected %s emeralds so far.",
 
   "aeternum.quests.reward_xp":"§6[Aeternum] §aYou have been rewarded §b30 points §afrom a quest!",
   "aeternum.quests.start.template":"§6[Aeternum] §dQUEST: ",
@@ -108,6 +120,7 @@
 
   "aeternum.abilities.deny":"§6[Aeternum] §4A cooldown is active for this ability!",
   "aeternum.abilities.accept":"§6[Aeternum] %s §8activated",
+  "aeternum.abilities.deny2":"§6[Aeternum] %s §8failed (incomplete requirements)",
 
   "aeternum.abilities.enchanter.xp_storage.deny":"§6[Aeternum] §4Not enough XP! You need at least 10 levels.",
   "aeternum.abilities.enchanter.paginated_shield.deny":"§6[Aeternum] §4Not enough space!",
@@ -218,6 +231,13 @@
   "aeternum.item.name.class_stone": "§aClass Stone",
   "aeternum.item.name.class_scroll": "§aClass Scroll",
   "aeternum.item.name.class_table": "§aClass Table",
+  "aeternum.item.name.trader_totem": "§aTrader Totem",
+  "aeternum.item.name.box.basic": "§eBasic Box",
+  "aeternum.item.name.box.medium": "§bMedium Box",
+  "aeternum.item.name.box.advanced": "§dAdvanced Box",
+  "aeternum.item.name.box.lucky": "§e??? Box",
+  "aeternum.item.name.box.sketchy": "§e??? Box",
+  "aeternum.item.name.box.shulker": "§e??? Box",
   "aeternum.item.name.energy_capsule": "§dEnergy Capsule",
   "aeternum.item.lore.xp_bottle": "§7+10 XP levels",
 
