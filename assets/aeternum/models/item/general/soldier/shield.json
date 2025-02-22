@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "aeternum:item/general/mage/shield",
-		"2": "aeternum:item/general/mage/shield1",
-		"particle": "aeternum:item/general/mage/shield"
+		"1": "aeternum:item/general/soldier/shield",
+		"2": "aeternum:item/general/soldier/shield1",
+		"particle": "aeternum:item/general/soldier/shield"
 	},
 	"elements": [
 		{
@@ -27,7 +27,7 @@
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"east": {"uv": [3.33333, 0, 3.93333, 16], "texture": "#1"},
 				"south": {"uv": [16, 0, 0, 16], "texture": "#1"},
-				"west": {"uv": [3.4, 0, 4, 3.5], "texture": "#1"},
+				"west": {"uv": [3.4, 0, 4, 3], "texture": "#1"},
 				"up": {"uv": [0, 0, 16, 1], "texture": "#1"},
 				"down": {"uv": [0, 15.7, 16, 16], "texture": "#1"}
 			}
